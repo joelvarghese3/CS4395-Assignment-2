@@ -1,0 +1,905 @@
+Start of testing: Namespace(hidden_dim=10, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training completed for epoch 1Training accuracy for epoch 1: 0.513Training time for this epoch: 3.8896946907043457Validation started for epoch 1Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.55875
+Validation time for this epoch: 0.17133212089538574
+Training completed for epoch 2Training accuracy for epoch 2: 0.5645Training time for this epoch: 3.972249746322632Validation started for epoch 2Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.55375
+Validation time for this epoch: 0.17332792282104492
+Training completed for epoch 3Training accuracy for epoch 3: 0.598375Training time for this epoch: 4.203696012496948Validation started for epoch 3Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.5625
+Validation time for this epoch: 0.18587851524353027
+Training completed for epoch 4Training accuracy for epoch 4: 0.627Training time for this epoch: 4.560372829437256Validation started for epoch 4Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.59625
+Validation time for this epoch: 0.16979646682739258
+Training completed for epoch 5Training accuracy for epoch 5: 0.64075Training time for this epoch: 4.412160634994507Validation started for epoch 5Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.57
+Validation time for this epoch: 0.16626429557800293
+Training completed for epoch 6Training accuracy for epoch 6: 0.6765Training time for this epoch: 4.3635358810424805Validation started for epoch 6Validation completed for epoch 6
+Validation accuracy for epoch 6: 0.555
+Validation time for this epoch: 0.17114520072937012
+Training completed for epoch 7Training accuracy for epoch 7: 0.700625Training time for this epoch: 4.47531533241272Validation started for epoch 7Validation completed for epoch 7
+Validation accuracy for epoch 7: 0.5675
+Validation time for this epoch: 0.16635870933532715
+Training completed for epoch 8Training accuracy for epoch 8: 0.70075Training time for this epoch: 4.4538633823394775Validation started for epoch 8Validation completed for epoch 8
+Validation accuracy for epoch 8: 0.52625
+Validation time for this epoch: 0.16725659370422363
+Training completed for epoch 9Training accuracy for epoch 9: 0.736375Training time for this epoch: 4.388517379760742Validation started for epoch 9Validation completed for epoch 9
+Validation accuracy for epoch 9: 0.6025
+Validation time for this epoch: 0.16908597946166992
+Training completed for epoch 10Training accuracy for epoch 10: 0.7595Training time for this epoch: 4.415778636932373Validation started for epoch 10Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.57125
+Validation time for this epoch: 0.16656231880187988
+Training completed for epoch 11Training accuracy for epoch 11: 0.774875Training time for this epoch: 4.459850311279297Validation started for epoch 11Validation completed for epoch 11
+Validation accuracy for epoch 11: 0.615
+Validation time for this epoch: 0.168351411819458
+Training completed for epoch 12Training accuracy for epoch 12: 0.779625Training time for this epoch: 4.441792726516724Validation started for epoch 12Validation completed for epoch 12
+Validation accuracy for epoch 12: 0.58625
+Validation time for this epoch: 0.1648542881011963
+Training completed for epoch 13Training accuracy for epoch 13: 0.7775Training time for this epoch: 4.454723834991455Validation started for epoch 13Validation completed for epoch 13
+Validation accuracy for epoch 13: 0.59625
+Validation time for this epoch: 0.17168045043945312
+Training completed for epoch 14Training accuracy for epoch 14: 0.81Training time for this epoch: 4.4338977336883545Validation started for epoch 14Validation completed for epoch 14
+Validation accuracy for epoch 14: 0.6125
+Validation time for this epoch: 0.16433167457580566
+Training completed for epoch 15Training accuracy for epoch 15: 0.772125Training time for this epoch: 4.632102012634277Validation started for epoch 15Validation completed for epoch 15
+Validation accuracy for epoch 15: 0.61125
+Validation time for this epoch: 0.17499446868896484
+Training completed for epoch 16Training accuracy for epoch 16: 0.77975Training time for this epoch: 4.5798726081848145Validation started for epoch 16Validation completed for epoch 16
+Validation accuracy for epoch 16: 0.54
+Validation time for this epoch: 0.1760258674621582
+Training completed for epoch 17Training accuracy for epoch 17: 0.747Training time for this epoch: 4.720857381820679Validation started for epoch 17Validation completed for epoch 17
+Validation accuracy for epoch 17: 0.60375
+Validation time for this epoch: 0.17540717124938965
+Training completed for epoch 18Training accuracy for epoch 18: 0.79Training time for this epoch: 4.622742176055908Validation started for epoch 18Validation completed for epoch 18
+Validation accuracy for epoch 18: 0.5925
+Validation time for this epoch: 0.17509078979492188
+Training completed for epoch 19Training accuracy for epoch 19: 0.815Training time for this epoch: 4.539952278137207Validation started for epoch 19Validation completed for epoch 19
+Validation accuracy for epoch 19: 0.61125
+Validation time for this epoch: 0.16789007186889648
+Training completed for epoch 20Training accuracy for epoch 20: 0.825625Training time for this epoch: 4.49593710899353Validation started for epoch 20Validation completed for epoch 20
+Validation accuracy for epoch 20: 0.5875
+Validation time for this epoch: 0.16668128967285156
+Training completed for epoch 21Training accuracy for epoch 21: 0.8385Training time for this epoch: 4.4882073402404785Validation started for epoch 21Validation completed for epoch 21
+Validation accuracy for epoch 21: 0.59125
+Validation time for this epoch: 0.17128586769104004
+Training completed for epoch 22Training accuracy for epoch 22: 0.86325Training time for this epoch: 4.4637131690979Validation started for epoch 22Validation completed for epoch 22
+Validation accuracy for epoch 22: 0.59375
+Validation time for this epoch: 0.16946148872375488
+Training completed for epoch 23Training accuracy for epoch 23: 0.81925Training time for this epoch: 4.648184537887573Validation started for epoch 23Validation completed for epoch 23
+Validation accuracy for epoch 23: 0.6
+Validation time for this epoch: 0.16551733016967773
+Training completed for epoch 24Training accuracy for epoch 24: 0.880375Training time for this epoch: 4.814599514007568Validation started for epoch 24Validation completed for epoch 24
+Validation accuracy for epoch 24: 0.59625
+Validation time for this epoch: 0.1737368106842041
+Training completed for epoch 25Training accuracy for epoch 25: 0.883Training time for this epoch: 4.661909341812134Validation started for epoch 25Validation completed for epoch 25
+Validation accuracy for epoch 25: 0.6
+Validation time for this epoch: 0.17032194137573242
+Training completed for epoch 26Training accuracy for epoch 26: 0.88Training time for this epoch: 4.741220712661743Validation started for epoch 26Validation completed for epoch 26
+Validation accuracy for epoch 26: 0.59
+Validation time for this epoch: 0.1816716194152832
+Training completed for epoch 27Training accuracy for epoch 27: 0.86375Training time for this epoch: 4.797333717346191Validation started for epoch 27Validation completed for epoch 27
+Validation accuracy for epoch 27: 0.5425
+Validation time for this epoch: 0.17447137832641602
+Training completed for epoch 28Training accuracy for epoch 28: 0.904125Training time for this epoch: 4.847128629684448Validation started for epoch 28Validation completed for epoch 28
+Validation accuracy for epoch 28: 0.5825
+Validation time for this epoch: 0.20370078086853027
+Training completed for epoch 29Training accuracy for epoch 29: 0.91125Training time for this epoch: 4.945258617401123Validation started for epoch 29Validation completed for epoch 29
+Validation accuracy for epoch 29: 0.5975
+Validation time for this epoch: 0.186082124710083
+Training completed for epoch 30Training accuracy for epoch 30: 0.93275Training time for this epoch: 4.77852201461792Validation started for epoch 30Validation completed for epoch 30
+Validation accuracy for epoch 30: 0.59125
+Validation time for this epoch: 0.1763005256652832
+Training completed for epoch 31Training accuracy for epoch 31: 0.89175Training time for this epoch: 4.585010766983032Validation started for epoch 31Validation completed for epoch 31
+Validation accuracy for epoch 31: 0.56125
+Validation time for this epoch: 0.16775274276733398
+Training completed for epoch 32Training accuracy for epoch 32: 0.909625Training time for this epoch: 4.594095468521118Validation started for epoch 32Validation completed for epoch 32
+Validation accuracy for epoch 32: 0.60375
+Validation time for this epoch: 0.16759395599365234
+Training completed for epoch 33Training accuracy for epoch 33: 0.937375Training time for this epoch: 4.635571241378784Validation started for epoch 33Validation completed for epoch 33
+Validation accuracy for epoch 33: 0.6125
+Validation time for this epoch: 0.16817188262939453
+Training completed for epoch 34Training accuracy for epoch 34: 0.9345Training time for this epoch: 4.560156345367432Validation started for epoch 34Validation completed for epoch 34
+Validation accuracy for epoch 34: 0.59875
+Validation time for this epoch: 0.17370915412902832
+Training completed for epoch 35Training accuracy for epoch 35: 0.9495Training time for this epoch: 4.549745559692383Validation started for epoch 35Validation completed for epoch 35
+Validation accuracy for epoch 35: 0.58875
+Validation time for this epoch: 0.16762232780456543
+Training completed for epoch 36Training accuracy for epoch 36: 0.957375Training time for this epoch: 4.606170177459717Validation started for epoch 36Validation completed for epoch 36
+Validation accuracy for epoch 36: 0.5825
+Validation time for this epoch: 0.16851282119750977
+Training completed for epoch 37Training accuracy for epoch 37: 0.92575Training time for this epoch: 4.6323816776275635Validation started for epoch 37Validation completed for epoch 37
+Validation accuracy for epoch 37: 0.60375
+Validation time for this epoch: 0.17108488082885742
+Training completed for epoch 38Training accuracy for epoch 38: 0.932375Training time for this epoch: 4.576420068740845Validation started for epoch 38Validation completed for epoch 38
+Validation accuracy for epoch 38: 0.57875
+Validation time for this epoch: 0.17060470581054688
+Training completed for epoch 39Training accuracy for epoch 39: 0.949125Training time for this epoch: 4.592638254165649Validation started for epoch 39Validation completed for epoch 39
+Validation accuracy for epoch 39: 0.58875
+Validation time for this epoch: 0.17473292350769043
+Training completed for epoch 40Training accuracy for epoch 40: 0.9505Training time for this epoch: 4.603660345077515Validation started for epoch 40Validation completed for epoch 40
+Validation accuracy for epoch 40: 0.5825
+Validation time for this epoch: 0.16846179962158203
+Training completed for epoch 41Training accuracy for epoch 41: 0.95025Training time for this epoch: 4.6103832721710205Validation started for epoch 41Validation completed for epoch 41
+Validation accuracy for epoch 41: 0.58875
+Validation time for this epoch: 0.20926523208618164
+Training completed for epoch 42Training accuracy for epoch 42: 0.927875Training time for this epoch: 4.77134895324707Validation started for epoch 42Validation completed for epoch 42
+Validation accuracy for epoch 42: 0.62
+Validation time for this epoch: 0.1687910556793213
+Training completed for epoch 43Training accuracy for epoch 43: 0.942625Training time for this epoch: 4.784528732299805Validation started for epoch 43Validation completed for epoch 43
+Validation accuracy for epoch 43: 0.56625
+Validation time for this epoch: 0.1787731647491455
+Training completed for epoch 44Training accuracy for epoch 44: 0.95825Training time for this epoch: 4.908006906509399Validation started for epoch 44Validation completed for epoch 44
+Validation accuracy for epoch 44: 0.5975
+Validation time for this epoch: 0.18201327323913574
+Training completed for epoch 45Training accuracy for epoch 45: 0.969375Training time for this epoch: 4.609054088592529Validation started for epoch 45Validation completed for epoch 45
+Validation accuracy for epoch 45: 0.6075
+Validation time for this epoch: 0.16636061668395996
+Training completed for epoch 46Training accuracy for epoch 46: 0.9645Training time for this epoch: 4.613326549530029Validation started for epoch 46Validation completed for epoch 46
+Validation accuracy for epoch 46: 0.565
+Validation time for this epoch: 0.1729264259338379
+Training completed for epoch 47Training accuracy for epoch 47: 0.932875Training time for this epoch: 4.750800609588623Validation started for epoch 47Validation completed for epoch 47
+Validation accuracy for epoch 47: 0.5925
+Validation time for this epoch: 0.17196869850158691
+Training completed for epoch 48Training accuracy for epoch 48: 0.912125Training time for this epoch: 4.794622898101807Validation started for epoch 48Validation completed for epoch 48
+Validation accuracy for epoch 48: 0.585
+Validation time for this epoch: 0.18582463264465332
+Training completed for epoch 49Training accuracy for epoch 49: 0.94175Training time for this epoch: 4.799051761627197Validation started for epoch 49Validation completed for epoch 49
+Validation accuracy for epoch 49: 0.575
+Validation time for this epoch: 0.17891407012939453
+Training completed for epoch 50Training accuracy for epoch 50: 0.953Training time for this epoch: 4.746148109436035Validation started for epoch 50Validation completed for epoch 50
+Validation accuracy for epoch 50: 0.5975
+Validation time for this epoch: 0.17577767372131348
+Training completed for epoch 51Training accuracy for epoch 51: 0.959625Training time for this epoch: 4.639284610748291Validation started for epoch 51Validation completed for epoch 51
+Validation accuracy for epoch 51: 0.58375
+Validation time for this epoch: 0.16662311553955078
+Training completed for epoch 52Training accuracy for epoch 52: 0.946375Training time for this epoch: 4.700906753540039Validation started for epoch 52Validation completed for epoch 52
+Validation accuracy for epoch 52: 0.58125
+Validation time for this epoch: 0.17245244979858398
+Training completed for epoch 53Training accuracy for epoch 53: 0.966Training time for this epoch: 4.684027433395386Validation started for epoch 53Validation completed for epoch 53
+Validation accuracy for epoch 53: 0.57625
+Validation time for this epoch: 0.16434526443481445
+Training completed for epoch 54Training accuracy for epoch 54: 0.9515Training time for this epoch: 4.765717506408691Validation started for epoch 54Validation completed for epoch 54
+Validation accuracy for epoch 54: 0.58625
+Validation time for this epoch: 0.17032814025878906
+Training completed for epoch 55Training accuracy for epoch 55: 0.953375Training time for this epoch: 4.744081735610962Validation started for epoch 55Validation completed for epoch 55
+Validation accuracy for epoch 55: 0.5975
+Validation time for this epoch: 0.16720104217529297
+Training completed for epoch 56Training accuracy for epoch 56: 0.969Training time for this epoch: 4.655932903289795Validation started for epoch 56Validation completed for epoch 56
+Validation accuracy for epoch 56: 0.60625
+Validation time for this epoch: 0.1720263957977295
+Training completed for epoch 57Training accuracy for epoch 57: 0.980875Training time for this epoch: 4.692230939865112Validation started for epoch 57Validation completed for epoch 57
+Validation accuracy for epoch 57: 0.59
+Validation time for this epoch: 0.168623685836792
+Training completed for epoch 58Training accuracy for epoch 58: 0.956875Training time for this epoch: 4.665069818496704Validation started for epoch 58Validation completed for epoch 58
+Validation accuracy for epoch 58: 0.59125
+Validation time for this epoch: 0.17046046257019043
+Training completed for epoch 59Training accuracy for epoch 59: 0.92925Training time for this epoch: 4.658339738845825Validation started for epoch 59Validation completed for epoch 59
+Validation accuracy for epoch 59: 0.59
+Validation time for this epoch: 0.1659092903137207
+Training completed for epoch 60Training accuracy for epoch 60: 0.96275Training time for this epoch: 4.745467901229858Validation started for epoch 60Validation completed for epoch 60
+Validation accuracy for epoch 60: 0.58875
+Validation time for this epoch: 0.19444894790649414
+Training completed for epoch 61Training accuracy for epoch 61: 0.974625Training time for this epoch: 5.398531675338745Validation started for epoch 61Validation completed for epoch 61
+Validation accuracy for epoch 61: 0.59375
+Validation time for this epoch: 0.1840221881866455
+Training completed for epoch 62Training accuracy for epoch 62: 0.972Training time for this epoch: 4.709028005599976Validation started for epoch 62Validation completed for epoch 62
+Validation accuracy for epoch 62: 0.56875
+Validation time for this epoch: 0.16796231269836426
+Training completed for epoch 63Training accuracy for epoch 63: 0.967875Training time for this epoch: 4.65647029876709Validation started for epoch 63Validation completed for epoch 63
+Validation accuracy for epoch 63: 0.53375
+Validation time for this epoch: 0.1723935604095459
+Training completed for epoch 64Training accuracy for epoch 64: 0.973Training time for this epoch: 4.7365405559539795Validation started for epoch 64Validation completed for epoch 64
+Validation accuracy for epoch 64: 0.59625
+Validation time for this epoch: 0.19324970245361328
+Training completed for epoch 65Training accuracy for epoch 65: 0.98575Training time for this epoch: 4.822643518447876Validation started for epoch 65Validation completed for epoch 65
+Validation accuracy for epoch 65: 0.605
+Validation time for this epoch: 0.19422411918640137
+Training completed for epoch 66Training accuracy for epoch 66: 0.971125Training time for this epoch: 4.868572473526001Validation started for epoch 66Validation completed for epoch 66
+Validation accuracy for epoch 66: 0.595
+Validation time for this epoch: 0.17879629135131836
+Training completed for epoch 67Training accuracy for epoch 67: 0.97075Training time for this epoch: 4.677713632583618Validation started for epoch 67Validation completed for epoch 67
+Validation accuracy for epoch 67: 0.5875
+Validation time for this epoch: 0.1701185703277588
+Training completed for epoch 68Training accuracy for epoch 68: 0.984375Training time for this epoch: 4.669010877609253Validation started for epoch 68Validation completed for epoch 68
+Validation accuracy for epoch 68: 0.6
+Validation time for this epoch: 0.17168951034545898
+Training completed for epoch 69Training accuracy for epoch 69: 0.9855Training time for this epoch: 4.69165301322937Validation started for epoch 69Validation completed for epoch 69
+Validation accuracy for epoch 69: 0.6075
+Validation time for this epoch: 0.16694903373718262
+Training completed for epoch 70Training accuracy for epoch 70: 0.966875Training time for this epoch: 4.684665679931641Validation started for epoch 70Validation completed for epoch 70
+Validation accuracy for epoch 70: 0.5975
+Validation time for this epoch: 0.16576290130615234
+Training completed for epoch 71Training accuracy for epoch 71: 0.958125Training time for this epoch: 4.821777105331421Validation started for epoch 71Validation completed for epoch 71
+Validation accuracy for epoch 71: 0.61375
+Validation time for this epoch: 0.20121288299560547
+Training completed for epoch 72Training accuracy for epoch 72: 0.9475Training time for this epoch: 4.7527406215667725Validation started for epoch 72Validation completed for epoch 72
+Validation accuracy for epoch 72: 0.58375
+Validation time for this epoch: 0.16788887977600098
+Training completed for epoch 73Training accuracy for epoch 73: 0.97575Training time for this epoch: 4.787502288818359Validation started for epoch 73Validation completed for epoch 73
+Validation accuracy for epoch 73: 0.5975
+Validation time for this epoch: 0.17065930366516113
+Training completed for epoch 74Training accuracy for epoch 74: 0.982875Training time for this epoch: 4.6288228034973145Validation started for epoch 74Validation completed for epoch 74
+Validation accuracy for epoch 74: 0.6
+Validation time for this epoch: 0.1680302619934082
+Training completed for epoch 75Training accuracy for epoch 75: 0.97975Training time for this epoch: 4.623916864395142Validation started for epoch 75Validation completed for epoch 75
+Validation accuracy for epoch 75: 0.5625
+Validation time for this epoch: 0.1694958209991455
+Training completed for epoch 76Training accuracy for epoch 76: 0.970625Training time for this epoch: 4.683658838272095Validation started for epoch 76Validation completed for epoch 76
+Validation accuracy for epoch 76: 0.57625
+Validation time for this epoch: 0.1784970760345459
+Training completed for epoch 77Training accuracy for epoch 77: 0.964375Training time for this epoch: 4.6646223068237305Validation started for epoch 77Validation completed for epoch 77
+Validation accuracy for epoch 77: 0.5975
+Validation time for this epoch: 0.16639232635498047
+Training completed for epoch 78Training accuracy for epoch 78: 0.98325Training time for this epoch: 4.851908445358276Validation started for epoch 78Validation completed for epoch 78
+Validation accuracy for epoch 78: 0.60125
+Validation time for this epoch: 0.16701197624206543
+Training completed for epoch 79Training accuracy for epoch 79: 0.9515Training time for this epoch: 4.761740684509277Validation started for epoch 79Validation completed for epoch 79
+Validation accuracy for epoch 79: 0.5775
+Validation time for this epoch: 0.1688530445098877
+Training completed for epoch 80Training accuracy for epoch 80: 0.92675Training time for this epoch: 4.6901445388793945Validation started for epoch 80Validation completed for epoch 80
+Validation accuracy for epoch 80: 0.6
+Validation time for this epoch: 0.1729435920715332
+Training completed for epoch 81Training accuracy for epoch 81: 0.9835Training time for this epoch: 4.709743976593018Validation started for epoch 81Validation completed for epoch 81
+Validation accuracy for epoch 81: 0.57875
+Validation time for this epoch: 0.17104411125183105
+Training completed for epoch 82Training accuracy for epoch 82: 0.985375Training time for this epoch: 4.680834054946899Validation started for epoch 82Validation completed for epoch 82
+Validation accuracy for epoch 82: 0.59375
+Validation time for this epoch: 0.16892099380493164
+Training completed for epoch 83Training accuracy for epoch 83: 0.98175Training time for this epoch: 4.614773511886597Validation started for epoch 83Validation completed for epoch 83
+Validation accuracy for epoch 83: 0.5875
+Validation time for this epoch: 0.16356253623962402
+Training completed for epoch 84Training accuracy for epoch 84: 0.981625Training time for this epoch: 4.613640546798706Validation started for epoch 84Validation completed for epoch 84
+Validation accuracy for epoch 84: 0.5875
+Validation time for this epoch: 0.16561245918273926
+Training completed for epoch 85Training accuracy for epoch 85: 0.977625Training time for this epoch: 4.631620407104492Validation started for epoch 85Validation completed for epoch 85
+Validation accuracy for epoch 85: 0.5825
+Validation time for this epoch: 0.16596031188964844
+Training completed for epoch 86Training accuracy for epoch 86: 0.97975Training time for this epoch: 4.616197347640991Validation started for epoch 86Validation completed for epoch 86
+Validation accuracy for epoch 86: 0.56125
+Validation time for this epoch: 0.16412591934204102
+Training completed for epoch 87Training accuracy for epoch 87: 0.971125Training time for this epoch: 4.640747308731079Validation started for epoch 87Validation completed for epoch 87
+Validation accuracy for epoch 87: 0.60125
+Validation time for this epoch: 0.1697835922241211
+Training completed for epoch 88Training accuracy for epoch 88: 0.99125Training time for this epoch: 4.660370588302612Validation started for epoch 88Validation completed for epoch 88
+Validation accuracy for epoch 88: 0.585
+Validation time for this epoch: 0.1647655963897705
+Training completed for epoch 89Training accuracy for epoch 89: 0.991Training time for this epoch: 4.634336471557617Validation started for epoch 89Validation completed for epoch 89
+Validation accuracy for epoch 89: 0.59125
+Validation time for this epoch: 0.17223477363586426
+Training completed for epoch 90Training accuracy for epoch 90: 0.977125Training time for this epoch: 4.638830184936523Validation started for epoch 90Validation completed for epoch 90
+Validation accuracy for epoch 90: 0.59125
+Validation time for this epoch: 0.19090938568115234
+Training completed for epoch 91Training accuracy for epoch 91: 0.987125Training time for this epoch: 4.778257369995117Validation started for epoch 91Validation completed for epoch 91
+Validation accuracy for epoch 91: 0.58
+Validation time for this epoch: 0.1653585433959961
+Training completed for epoch 92Training accuracy for epoch 92: 0.992125Training time for this epoch: 4.753646612167358Validation started for epoch 92Validation completed for epoch 92
+Validation accuracy for epoch 92: 0.59375
+Validation time for this epoch: 0.17087149620056152
+Training completed for epoch 93Training accuracy for epoch 93: 0.981875Training time for this epoch: 4.686967849731445Validation started for epoch 93Validation completed for epoch 93
+Validation accuracy for epoch 93: 0.58375
+Validation time for this epoch: 0.16896343231201172
+Training completed for epoch 94Training accuracy for epoch 94: 0.9725Training time for this epoch: 4.6413257122039795Validation started for epoch 94Validation completed for epoch 94
+Validation accuracy for epoch 94: 0.59
+Validation time for this epoch: 0.1704397201538086
+Training completed for epoch 95Training accuracy for epoch 95: 0.989625Training time for this epoch: 4.645679950714111Validation started for epoch 95Validation completed for epoch 95
+Validation accuracy for epoch 95: 0.59125
+Validation time for this epoch: 0.19175124168395996
+Training completed for epoch 96Training accuracy for epoch 96: 0.9925Training time for this epoch: 4.677323579788208Validation started for epoch 96Validation completed for epoch 96
+Validation accuracy for epoch 96: 0.58625
+Validation time for this epoch: 0.1655101776123047
+Training completed for epoch 97Training accuracy for epoch 97: 0.965625Training time for this epoch: 4.656897068023682Validation started for epoch 97Validation completed for epoch 97
+Validation accuracy for epoch 97: 0.59875
+Validation time for this epoch: 0.16501140594482422
+Training completed for epoch 98Training accuracy for epoch 98: 0.978875Training time for this epoch: 4.664196491241455Validation started for epoch 98Validation completed for epoch 98
+Validation accuracy for epoch 98: 0.6
+Validation time for this epoch: 0.16493010520935059
+Training completed for epoch 99Training accuracy for epoch 99: 0.989125Training time for this epoch: 4.648453950881958Validation started for epoch 99Validation completed for epoch 99
+Validation accuracy for epoch 99: 0.5975
+Validation time for this epoch: 0.16446876525878906
+Training completed for epoch 100Training accuracy for epoch 100: 0.994375Training time for this epoch: 4.640092134475708Validation started for epoch 100Validation completed for epoch 100
+Validation accuracy for epoch 100: 0.60375
+Validation time for this epoch: 0.17004680633544922
+End of program
+
+Start of testing: Namespace(hidden_dim=32, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training completed for epoch 1Training accuracy for epoch 1: 0.533625Training time for this epoch: 7.1107141971588135Validation started for epoch 1Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.5225
+Validation time for this epoch: 0.20414090156555176
+Training completed for epoch 2Training accuracy for epoch 2: 0.58375Training time for this epoch: 8.158054828643799Validation started for epoch 2Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.56625
+Validation time for this epoch: 0.24414801597595215
+Training completed for epoch 3Training accuracy for epoch 3: 0.61775Training time for this epoch: 8.134489297866821Validation started for epoch 3Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.60375
+Validation time for this epoch: 0.20727968215942383
+Training completed for epoch 4Training accuracy for epoch 4: 0.642Training time for this epoch: 8.451443910598755Validation started for epoch 4Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.5625
+Validation time for this epoch: 0.2051553726196289
+Training completed for epoch 5Training accuracy for epoch 5: 0.654875Training time for this epoch: 8.200273990631104Validation started for epoch 5Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.63125
+Validation time for this epoch: 0.20492124557495117
+Training completed for epoch 6Training accuracy for epoch 6: 0.677125Training time for this epoch: 8.671510457992554Validation started for epoch 6Validation completed for epoch 6
+Validation accuracy for epoch 6: 0.60875
+Validation time for this epoch: 0.2453913688659668
+Training completed for epoch 7Training accuracy for epoch 7: 0.703Training time for this epoch: 8.509479761123657Validation started for epoch 7Validation completed for epoch 7
+Validation accuracy for epoch 7: 0.5575
+Validation time for this epoch: 0.1950998306274414
+Training completed for epoch 8Training accuracy for epoch 8: 0.705375Training time for this epoch: 8.315754890441895Validation started for epoch 8Validation completed for epoch 8
+Validation accuracy for epoch 8: 0.58625
+Validation time for this epoch: 0.2685072422027588
+Training completed for epoch 9Training accuracy for epoch 9: 0.737Training time for this epoch: 8.978728294372559Validation started for epoch 9Validation completed for epoch 9
+Validation accuracy for epoch 9: 0.62125
+Validation time for this epoch: 0.2027590274810791
+Training completed for epoch 10Training accuracy for epoch 10: 0.757625Training time for this epoch: 8.404837846755981Validation started for epoch 10Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.6025
+Validation time for this epoch: 0.19740724563598633
+Training completed for epoch 11Training accuracy for epoch 11: 0.76725Training time for this epoch: 8.603290319442749Validation started for epoch 11Validation completed for epoch 11
+Validation accuracy for epoch 11: 0.6175
+Validation time for this epoch: 0.19402050971984863
+Training completed for epoch 12Training accuracy for epoch 12: 0.752875Training time for this epoch: 8.371518611907959Validation started for epoch 12Validation completed for epoch 12
+Validation accuracy for epoch 12: 0.6125
+Validation time for this epoch: 0.198317289352417
+Training completed for epoch 13Training accuracy for epoch 13: 0.779375Training time for this epoch: 8.483227252960205Validation started for epoch 13Validation completed for epoch 13
+Validation accuracy for epoch 13: 0.56
+Validation time for this epoch: 0.19182562828063965
+Training completed for epoch 14Training accuracy for epoch 14: 0.79575Training time for this epoch: 8.424385786056519Validation started for epoch 14Validation completed for epoch 14
+Validation accuracy for epoch 14: 0.60125
+Validation time for this epoch: 0.19248747825622559
+Training completed for epoch 15Training accuracy for epoch 15: 0.822875Training time for this epoch: 8.409239530563354Validation started for epoch 15Validation completed for epoch 15
+Validation accuracy for epoch 15: 0.625
+Validation time for this epoch: 0.19671845436096191
+Training completed for epoch 16Training accuracy for epoch 16: 0.837125Training time for this epoch: 8.371934413909912Validation started for epoch 16Validation completed for epoch 16
+Validation accuracy for epoch 16: 0.605
+Validation time for this epoch: 0.19362807273864746
+Training completed for epoch 17Training accuracy for epoch 17: 0.834875Training time for this epoch: 8.379765510559082Validation started for epoch 17Validation completed for epoch 17
+Validation accuracy for epoch 17: 0.6075
+Validation time for this epoch: 0.19936466217041016
+Training completed for epoch 18Training accuracy for epoch 18: 0.8445Training time for this epoch: 8.457095623016357Validation started for epoch 18Validation completed for epoch 18
+Validation accuracy for epoch 18: 0.615
+Validation time for this epoch: 0.19157934188842773
+Training completed for epoch 19Training accuracy for epoch 19: 0.81525Training time for this epoch: 8.439465045928955Validation started for epoch 19Validation completed for epoch 19
+Validation accuracy for epoch 19: 0.605
+Validation time for this epoch: 0.1923074722290039
+Training completed for epoch 20Training accuracy for epoch 20: 0.846375Training time for this epoch: 8.508594274520874Validation started for epoch 20Validation completed for epoch 20
+Validation accuracy for epoch 20: 0.6125
+Validation time for this epoch: 0.1922011375427246
+Training completed for epoch 21Training accuracy for epoch 21: 0.90525Training time for this epoch: 8.472251653671265Validation started for epoch 21Validation completed for epoch 21
+Validation accuracy for epoch 21: 0.6025
+Validation time for this epoch: 0.19208264350891113
+Training completed for epoch 22Training accuracy for epoch 22: 0.92025Training time for this epoch: 8.654388904571533Validation started for epoch 22Validation completed for epoch 22
+Validation accuracy for epoch 22: 0.53625
+Validation time for this epoch: 0.1898810863494873
+Training completed for epoch 23Training accuracy for epoch 23: 0.918875Training time for this epoch: 8.683632850646973Validation started for epoch 23Validation completed for epoch 23
+Validation accuracy for epoch 23: 0.5825
+Validation time for this epoch: 0.1955268383026123
+Training completed for epoch 24Training accuracy for epoch 24: 0.93625Training time for this epoch: 8.700451374053955Validation started for epoch 24Validation completed for epoch 24
+Validation accuracy for epoch 24: 0.6075
+Validation time for this epoch: 0.19331574440002441
+Training completed for epoch 25Training accuracy for epoch 25: 0.916875Training time for this epoch: 8.605878353118896Validation started for epoch 25Validation completed for epoch 25
+Validation accuracy for epoch 25: 0.5975
+Validation time for this epoch: 0.19253110885620117
+Training completed for epoch 26Training accuracy for epoch 26: 0.947Training time for this epoch: 8.61626148223877Validation started for epoch 26Validation completed for epoch 26
+Validation accuracy for epoch 26: 0.59875
+Validation time for this epoch: 0.19502758979797363
+Training completed for epoch 27Training accuracy for epoch 27: 0.943875Training time for this epoch: 8.711429834365845Validation started for epoch 27Validation completed for epoch 27
+Validation accuracy for epoch 27: 0.55625
+Validation time for this epoch: 0.1930217742919922
+Training completed for epoch 28Training accuracy for epoch 28: 0.951375Training time for this epoch: 8.60794997215271Validation started for epoch 28Validation completed for epoch 28
+Validation accuracy for epoch 28: 0.58875
+Validation time for this epoch: 0.1967465877532959
+Training completed for epoch 29Training accuracy for epoch 29: 0.953125Training time for this epoch: 8.587147951126099Validation started for epoch 29Validation completed for epoch 29
+Validation accuracy for epoch 29: 0.595
+Validation time for this epoch: 0.19372916221618652
+Training completed for epoch 30Training accuracy for epoch 30: 0.9425Training time for this epoch: 8.544977188110352Validation started for epoch 30Validation completed for epoch 30
+Validation accuracy for epoch 30: 0.6125
+Validation time for this epoch: 0.19047856330871582
+Training completed for epoch 31Training accuracy for epoch 31: 0.951125Training time for this epoch: 8.587482213973999Validation started for epoch 31Validation completed for epoch 31
+Validation accuracy for epoch 31: 0.58
+Validation time for this epoch: 0.19217991828918457
+Training completed for epoch 32Training accuracy for epoch 32: 0.95525Training time for this epoch: 8.454411506652832Validation started for epoch 32Validation completed for epoch 32
+Validation accuracy for epoch 32: 0.59
+Validation time for this epoch: 0.19400405883789062
+Training completed for epoch 33Training accuracy for epoch 33: 0.91775Training time for this epoch: 8.470599174499512Validation started for epoch 33Validation completed for epoch 33
+Validation accuracy for epoch 33: 0.60375
+Validation time for this epoch: 0.1919410228729248
+Training completed for epoch 34Training accuracy for epoch 34: 0.9485Training time for this epoch: 8.547569990158081Validation started for epoch 34Validation completed for epoch 34
+Validation accuracy for epoch 34: 0.605
+Validation time for this epoch: 0.19581174850463867
+Training completed for epoch 35Training accuracy for epoch 35: 0.948625Training time for this epoch: 8.409799098968506Validation started for epoch 35Validation completed for epoch 35
+Validation accuracy for epoch 35: 0.58375
+Validation time for this epoch: 0.1885979175567627
+Training completed for epoch 36Training accuracy for epoch 36: 0.986625Training time for this epoch: 8.493840456008911Validation started for epoch 36Validation completed for epoch 36
+Validation accuracy for epoch 36: 0.59875
+Validation time for this epoch: 0.19333148002624512
+Training completed for epoch 37Training accuracy for epoch 37: 0.983875Training time for this epoch: 8.476409435272217Validation started for epoch 37Validation completed for epoch 37
+Validation accuracy for epoch 37: 0.5975
+Validation time for this epoch: 0.20203256607055664
+Training completed for epoch 38Training accuracy for epoch 38: 0.961125Training time for this epoch: 8.429149150848389Validation started for epoch 38Validation completed for epoch 38
+Validation accuracy for epoch 38: 0.60375
+Validation time for this epoch: 0.1912250518798828
+Training completed for epoch 39Training accuracy for epoch 39: 0.972375Training time for this epoch: 8.444668531417847Validation started for epoch 39Validation completed for epoch 39
+Validation accuracy for epoch 39: 0.58375
+Validation time for this epoch: 0.19326043128967285
+Training completed for epoch 40Training accuracy for epoch 40: 0.991Training time for this epoch: 8.40756607055664Validation started for epoch 40Validation completed for epoch 40
+Validation accuracy for epoch 40: 0.56375
+Validation time for this epoch: 0.190415620803833
+Training completed for epoch 41Training accuracy for epoch 41: 0.982375Training time for this epoch: 8.452640295028687Validation started for epoch 41Validation completed for epoch 41
+Validation accuracy for epoch 41: 0.57875
+Validation time for this epoch: 0.1962423324584961
+Training completed for epoch 42Training accuracy for epoch 42: 0.974375Training time for this epoch: 8.50774097442627Validation started for epoch 42Validation completed for epoch 42
+Validation accuracy for epoch 42: 0.59125
+Validation time for this epoch: 0.1934199333190918
+Training completed for epoch 43Training accuracy for epoch 43: 0.989625Training time for this epoch: 8.59928560256958Validation started for epoch 43Validation completed for epoch 43
+Validation accuracy for epoch 43: 0.61125
+Validation time for this epoch: 0.19106650352478027
+Training completed for epoch 44Training accuracy for epoch 44: 0.995875Training time for this epoch: 8.484990119934082Validation started for epoch 44Validation completed for epoch 44
+Validation accuracy for epoch 44: 0.615
+Validation time for this epoch: 0.19582509994506836
+Training completed for epoch 45Training accuracy for epoch 45: 0.998375Training time for this epoch: 8.523748874664307Validation started for epoch 45Validation completed for epoch 45
+Validation accuracy for epoch 45: 0.59875
+Validation time for this epoch: 0.19967031478881836
+Training completed for epoch 46Training accuracy for epoch 46: 0.99275Training time for this epoch: 8.475069761276245Validation started for epoch 46Validation completed for epoch 46
+Validation accuracy for epoch 46: 0.59625
+Validation time for this epoch: 0.1928548812866211
+Training completed for epoch 47Training accuracy for epoch 47: 0.998Training time for this epoch: 8.565994262695312Validation started for epoch 47Validation completed for epoch 47
+Validation accuracy for epoch 47: 0.6
+Validation time for this epoch: 0.1934950351715088
+Training completed for epoch 48Training accuracy for epoch 48: 0.955875Training time for this epoch: 8.574422359466553Validation started for epoch 48Validation completed for epoch 48
+Validation accuracy for epoch 48: 0.605
+Validation time for this epoch: 0.21359896659851074
+Training completed for epoch 49Training accuracy for epoch 49: 0.976125Training time for this epoch: 8.553092241287231Validation started for epoch 49Validation completed for epoch 49
+Validation accuracy for epoch 49: 0.60375
+Validation time for this epoch: 0.19206500053405762
+Training completed for epoch 50Training accuracy for epoch 50: 0.992Training time for this epoch: 8.55086088180542Validation started for epoch 50Validation completed for epoch 50
+Validation accuracy for epoch 50: 0.6125
+Validation time for this epoch: 0.19249224662780762
+Training completed for epoch 51Training accuracy for epoch 51: 0.998625Training time for this epoch: 8.47342824935913Validation started for epoch 51Validation completed for epoch 51
+Validation accuracy for epoch 51: 0.6125
+Validation time for this epoch: 0.19308090209960938
+Training completed for epoch 52Training accuracy for epoch 52: 0.999125Training time for this epoch: 8.50617527961731Validation started for epoch 52Validation completed for epoch 52
+Validation accuracy for epoch 52: 0.6
+Validation time for this epoch: 0.19849419593811035
+Training completed for epoch 53Training accuracy for epoch 53: 0.99925Training time for this epoch: 8.48483943939209Validation started for epoch 53Validation completed for epoch 53
+Validation accuracy for epoch 53: 0.6025
+Validation time for this epoch: 0.19580340385437012
+Training completed for epoch 54Training accuracy for epoch 54: 0.99925Training time for this epoch: 8.573501110076904Validation started for epoch 54Validation completed for epoch 54
+Validation accuracy for epoch 54: 0.6075
+Validation time for this epoch: 0.20382928848266602
+Training completed for epoch 55Training accuracy for epoch 55: 0.9995Training time for this epoch: 8.450972557067871Validation started for epoch 55Validation completed for epoch 55
+Validation accuracy for epoch 55: 0.6075
+Validation time for this epoch: 0.20330476760864258
+Training completed for epoch 56Training accuracy for epoch 56: 0.999375Training time for this epoch: 8.47044324874878Validation started for epoch 56Validation completed for epoch 56
+Validation accuracy for epoch 56: 0.6125
+Validation time for this epoch: 0.1918807029724121
+Training completed for epoch 57Training accuracy for epoch 57: 0.999375Training time for this epoch: 8.440513849258423Validation started for epoch 57Validation completed for epoch 57
+Validation accuracy for epoch 57: 0.605
+Validation time for this epoch: 0.1940174102783203
+Training completed for epoch 58Training accuracy for epoch 58: 0.999625Training time for this epoch: 8.471038579940796Validation started for epoch 58Validation completed for epoch 58
+Validation accuracy for epoch 58: 0.60875
+Validation time for this epoch: 0.1942143440246582
+Training completed for epoch 59Training accuracy for epoch 59: 0.999625Training time for this epoch: 8.438411712646484Validation started for epoch 59Validation completed for epoch 59
+Validation accuracy for epoch 59: 0.6125
+Validation time for this epoch: 0.18985939025878906
+Training completed for epoch 60Training accuracy for epoch 60: 0.999375Training time for this epoch: 8.4500093460083Validation started for epoch 60Validation completed for epoch 60
+Validation accuracy for epoch 60: 0.61
+Validation time for this epoch: 0.1905372142791748
+Training completed for epoch 61Training accuracy for epoch 61: 0.99975Training time for this epoch: 8.467811107635498Validation started for epoch 61Validation completed for epoch 61
+Validation accuracy for epoch 61: 0.61875
+Validation time for this epoch: 0.1928997039794922
+Training completed for epoch 62Training accuracy for epoch 62: 0.99975Training time for this epoch: 8.414726734161377Validation started for epoch 62Validation completed for epoch 62
+Validation accuracy for epoch 62: 0.61625
+Validation time for this epoch: 0.20037627220153809
+Training completed for epoch 63Training accuracy for epoch 63: 0.99975Training time for this epoch: 8.43403172492981Validation started for epoch 63Validation completed for epoch 63
+Validation accuracy for epoch 63: 0.61375
+Validation time for this epoch: 0.19843435287475586
+Training completed for epoch 64Training accuracy for epoch 64: 0.99975Training time for this epoch: 8.478347301483154Validation started for epoch 64Validation completed for epoch 64
+Validation accuracy for epoch 64: 0.61125
+Validation time for this epoch: 0.19017648696899414
+Training completed for epoch 65Training accuracy for epoch 65: 0.99975Training time for this epoch: 8.37354063987732Validation started for epoch 65Validation completed for epoch 65
+Validation accuracy for epoch 65: 0.6175
+Validation time for this epoch: 0.19133734703063965
+Training completed for epoch 66Training accuracy for epoch 66: 0.99975Training time for this epoch: 8.427638530731201Validation started for epoch 66Validation completed for epoch 66
+Validation accuracy for epoch 66: 0.61375
+Validation time for this epoch: 0.19398736953735352
+Training completed for epoch 67Training accuracy for epoch 67: 0.99975Training time for this epoch: 8.504164218902588Validation started for epoch 67Validation completed for epoch 67
+Validation accuracy for epoch 67: 0.61375
+Validation time for this epoch: 0.1950514316558838
+Training completed for epoch 68Training accuracy for epoch 68: 0.99975Training time for this epoch: 8.487918615341187Validation started for epoch 68Validation completed for epoch 68
+Validation accuracy for epoch 68: 0.615
+Validation time for this epoch: 0.18988919258117676
+Training completed for epoch 69Training accuracy for epoch 69: 0.99975Training time for this epoch: 8.455068826675415Validation started for epoch 69Validation completed for epoch 69
+Validation accuracy for epoch 69: 0.61375
+Validation time for this epoch: 0.19290423393249512
+Training completed for epoch 70Training accuracy for epoch 70: 0.99975Training time for this epoch: 8.437978744506836Validation started for epoch 70Validation completed for epoch 70
+Validation accuracy for epoch 70: 0.6125
+Validation time for this epoch: 0.1986980438232422
+Training completed for epoch 71Training accuracy for epoch 71: 0.99975Training time for this epoch: 8.51459813117981Validation started for epoch 71Validation completed for epoch 71
+Validation accuracy for epoch 71: 0.61375
+Validation time for this epoch: 0.19556069374084473
+Training completed for epoch 72Training accuracy for epoch 72: 0.99975Training time for this epoch: 8.499795198440552Validation started for epoch 72Validation completed for epoch 72
+Validation accuracy for epoch 72: 0.61125
+Validation time for this epoch: 0.18919110298156738
+Training completed for epoch 73Training accuracy for epoch 73: 0.99975Training time for this epoch: 8.399091482162476Validation started for epoch 73Validation completed for epoch 73
+Validation accuracy for epoch 73: 0.6125
+Validation time for this epoch: 0.19487786293029785
+Training completed for epoch 74Training accuracy for epoch 74: 0.99975Training time for this epoch: 8.465924263000488Validation started for epoch 74Validation completed for epoch 74
+Validation accuracy for epoch 74: 0.6075
+Validation time for this epoch: 0.19619250297546387
+Training completed for epoch 75Training accuracy for epoch 75: 0.99975Training time for this epoch: 8.504309177398682Validation started for epoch 75Validation completed for epoch 75
+Validation accuracy for epoch 75: 0.61
+Validation time for this epoch: 0.1981980800628662
+Training completed for epoch 76Training accuracy for epoch 76: 0.999875Training time for this epoch: 8.551450967788696Validation started for epoch 76Validation completed for epoch 76
+Validation accuracy for epoch 76: 0.6075
+Validation time for this epoch: 0.19550156593322754
+Training completed for epoch 77Training accuracy for epoch 77: 0.999875Training time for this epoch: 8.493635654449463Validation started for epoch 77Validation completed for epoch 77
+Validation accuracy for epoch 77: 0.60625
+Validation time for this epoch: 0.1895895004272461
+Training completed for epoch 78Training accuracy for epoch 78: 0.999875Training time for this epoch: 8.503066778182983Validation started for epoch 78Validation completed for epoch 78
+Validation accuracy for epoch 78: 0.60625
+Validation time for this epoch: 0.19881916046142578
+Training completed for epoch 79Training accuracy for epoch 79: 0.999875Training time for this epoch: 8.527300596237183Validation started for epoch 79Validation completed for epoch 79
+Validation accuracy for epoch 79: 0.605
+Validation time for this epoch: 0.190887451171875
+Training completed for epoch 80Training accuracy for epoch 80: 1.0Training time for this epoch: 8.610620975494385Validation started for epoch 80Validation completed for epoch 80
+Validation accuracy for epoch 80: 0.6025
+Validation time for this epoch: 0.19051289558410645
+Training completed for epoch 81Training accuracy for epoch 81: 1.0Training time for this epoch: 8.562496900558472Validation started for epoch 81Validation completed for epoch 81
+Validation accuracy for epoch 81: 0.60375
+Validation time for this epoch: 0.19652032852172852
+Training completed for epoch 82Training accuracy for epoch 82: 1.0Training time for this epoch: 8.545441627502441Validation started for epoch 82Validation completed for epoch 82
+Validation accuracy for epoch 82: 0.6
+Validation time for this epoch: 0.1882188320159912
+Training completed for epoch 83Training accuracy for epoch 83: 1.0Training time for this epoch: 8.487898349761963Validation started for epoch 83Validation completed for epoch 83
+Validation accuracy for epoch 83: 0.60125
+Validation time for this epoch: 0.1925194263458252
+Training completed for epoch 84Training accuracy for epoch 84: 1.0Training time for this epoch: 8.533909559249878Validation started for epoch 84Validation completed for epoch 84
+Validation accuracy for epoch 84: 0.6025
+Validation time for this epoch: 0.1970210075378418
+Training completed for epoch 85Training accuracy for epoch 85: 1.0Training time for this epoch: 8.634897470474243Validation started for epoch 85Validation completed for epoch 85
+Validation accuracy for epoch 85: 0.60625
+Validation time for this epoch: 0.19151759147644043
+Training completed for epoch 86Training accuracy for epoch 86: 1.0Training time for this epoch: 8.583921194076538Validation started for epoch 86Validation completed for epoch 86
+Validation accuracy for epoch 86: 0.60125
+Validation time for this epoch: 0.18851256370544434
+Training completed for epoch 87Training accuracy for epoch 87: 1.0Training time for this epoch: 8.545588970184326Validation started for epoch 87Validation completed for epoch 87
+Validation accuracy for epoch 87: 0.6025
+Validation time for this epoch: 0.19350838661193848
+Training completed for epoch 88Training accuracy for epoch 88: 1.0Training time for this epoch: 8.566418647766113Validation started for epoch 88Validation completed for epoch 88
+Validation accuracy for epoch 88: 0.60375
+Validation time for this epoch: 0.1966085433959961
+Training completed for epoch 89Training accuracy for epoch 89: 1.0Training time for this epoch: 8.581738233566284Validation started for epoch 89Validation completed for epoch 89
+Validation accuracy for epoch 89: 0.6
+Validation time for this epoch: 0.19488286972045898
+Training completed for epoch 90Training accuracy for epoch 90: 1.0Training time for this epoch: 8.649486064910889Validation started for epoch 90Validation completed for epoch 90
+Validation accuracy for epoch 90: 0.6
+Validation time for this epoch: 0.19391608238220215
+Training completed for epoch 91Training accuracy for epoch 91: 1.0Training time for this epoch: 8.579105854034424Validation started for epoch 91Validation completed for epoch 91
+Validation accuracy for epoch 91: 0.60125
+Validation time for this epoch: 0.19601893424987793
+Training completed for epoch 92Training accuracy for epoch 92: 1.0Training time for this epoch: 8.544076681137085Validation started for epoch 92Validation completed for epoch 92
+Validation accuracy for epoch 92: 0.6
+Validation time for this epoch: 0.19200897216796875
+Training completed for epoch 93Training accuracy for epoch 93: 1.0Training time for this epoch: 8.428455829620361Validation started for epoch 93Validation completed for epoch 93
+Validation accuracy for epoch 93: 0.5975
+Validation time for this epoch: 0.19414496421813965
+Training completed for epoch 94Training accuracy for epoch 94: 1.0Training time for this epoch: 8.424131155014038Validation started for epoch 94Validation completed for epoch 94
+Validation accuracy for epoch 94: 0.60125
+Validation time for this epoch: 0.19407057762145996
+Training completed for epoch 95Training accuracy for epoch 95: 1.0Training time for this epoch: 8.421013355255127Validation started for epoch 95Validation completed for epoch 95
+Validation accuracy for epoch 95: 0.60125
+Validation time for this epoch: 0.19280719757080078
+Training completed for epoch 96Training accuracy for epoch 96: 1.0Training time for this epoch: 8.472161531448364Validation started for epoch 96Validation completed for epoch 96
+Validation accuracy for epoch 96: 0.6
+Validation time for this epoch: 0.19507479667663574
+Training completed for epoch 97Training accuracy for epoch 97: 1.0Training time for this epoch: 8.460485935211182Validation started for epoch 97Validation completed for epoch 97
+Validation accuracy for epoch 97: 0.6
+Validation time for this epoch: 0.19544267654418945
+Training completed for epoch 98Training accuracy for epoch 98: 1.0Training time for this epoch: 8.484936952590942Validation started for epoch 98Validation completed for epoch 98
+Validation accuracy for epoch 98: 0.60125
+Validation time for this epoch: 0.19336271286010742
+Training completed for epoch 99Training accuracy for epoch 99: 1.0Training time for this epoch: 8.454805135726929Validation started for epoch 99Validation completed for epoch 99
+Validation accuracy for epoch 99: 0.6
+Validation time for this epoch: 0.20202159881591797
+Training completed for epoch 100Training accuracy for epoch 100: 1.0Training time for this epoch: 8.443228960037231Validation started for epoch 100Validation completed for epoch 100
+Validation accuracy for epoch 100: 0.59875
+Validation time for this epoch: 0.19699454307556152
+End of program
+
+Start of testing: Namespace(hidden_dim=128, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training completed for epoch 1Training accuracy for epoch 1: 0.530125Training time for this epoch: 22.42137885093689Validation started for epoch 1Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.5425
+Validation time for this epoch: 0.40900564193725586
+Training completed for epoch 2Training accuracy for epoch 2: 0.585875Training time for this epoch: 23.28893232345581Validation started for epoch 2Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.59375
+Validation time for this epoch: 0.40485215187072754
+Training completed for epoch 3Training accuracy for epoch 3: 0.614125Training time for this epoch: 24.53906536102295Validation started for epoch 3Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.5875
+Validation time for this epoch: 0.4066429138183594
+Training completed for epoch 4Training accuracy for epoch 4: 0.63975Training time for this epoch: 24.99092197418213Validation started for epoch 4Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.56875
+Validation time for this epoch: 0.46856117248535156
+Training completed for epoch 5Training accuracy for epoch 5: 0.66275Training time for this epoch: 25.370680332183838Validation started for epoch 5Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.605
+Validation time for this epoch: 0.40727686882019043
+Training completed for epoch 6Training accuracy for epoch 6: 0.689Training time for this epoch: 25.26682138442993Validation started for epoch 6Validation completed for epoch 6
+Validation accuracy for epoch 6: 0.605
+Validation time for this epoch: 0.4060697555541992
+Training completed for epoch 7Training accuracy for epoch 7: 0.725875Training time for this epoch: 25.607746362686157Validation started for epoch 7Validation completed for epoch 7
+Validation accuracy for epoch 7: 0.57125
+Validation time for this epoch: 0.40955185890197754
+Training completed for epoch 8Training accuracy for epoch 8: 0.744625Training time for this epoch: 25.460472345352173Validation started for epoch 8Validation completed for epoch 8
+Validation accuracy for epoch 8: 0.56125
+Validation time for this epoch: 0.40454959869384766
+Training completed for epoch 9Training accuracy for epoch 9: 0.782875Training time for this epoch: 25.74533247947693Validation started for epoch 9Validation completed for epoch 9
+Validation accuracy for epoch 9: 0.61125
+Validation time for this epoch: 0.4042012691497803
+Training completed for epoch 10Training accuracy for epoch 10: 0.80325Training time for this epoch: 25.719895839691162Validation started for epoch 10Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.6375
+Validation time for this epoch: 0.4020271301269531
+Training completed for epoch 11Training accuracy for epoch 11: 0.821Training time for this epoch: 25.913416624069214Validation started for epoch 11Validation completed for epoch 11
+Validation accuracy for epoch 11: 0.595
+Validation time for this epoch: 0.44156479835510254
+Training completed for epoch 12Training accuracy for epoch 12: 0.850125Training time for this epoch: 25.81858229637146Validation started for epoch 12Validation completed for epoch 12
+Validation accuracy for epoch 12: 0.595
+Validation time for this epoch: 0.4062385559082031
+Training completed for epoch 13Training accuracy for epoch 13: 0.873Training time for this epoch: 25.853432416915894Validation started for epoch 13Validation completed for epoch 13
+Validation accuracy for epoch 13: 0.59625
+Validation time for this epoch: 0.40509939193725586
+Training completed for epoch 14Training accuracy for epoch 14: 0.89275Training time for this epoch: 26.176016569137573Validation started for epoch 14Validation completed for epoch 14
+Validation accuracy for epoch 14: 0.56625
+Validation time for this epoch: 0.40550851821899414
+Training completed for epoch 15Training accuracy for epoch 15: 0.894375Training time for this epoch: 26.100722074508667Validation started for epoch 15Validation completed for epoch 15
+Validation accuracy for epoch 15: 0.5875
+Validation time for this epoch: 0.40122437477111816
+Training completed for epoch 16Training accuracy for epoch 16: 0.91175Training time for this epoch: 26.35512924194336Validation started for epoch 16Validation completed for epoch 16
+Validation accuracy for epoch 16: 0.57625
+Validation time for this epoch: 0.40850138664245605
+Training completed for epoch 17Training accuracy for epoch 17: 0.911125Training time for this epoch: 26.042176961898804Validation started for epoch 17Validation completed for epoch 17
+Validation accuracy for epoch 17: 0.60125
+Validation time for this epoch: 0.3975331783294678
+Training completed for epoch 18Training accuracy for epoch 18: 0.912625Training time for this epoch: 26.07760190963745Validation started for epoch 18Validation completed for epoch 18
+Validation accuracy for epoch 18: 0.61625
+Validation time for this epoch: 0.40248632431030273
+Training completed for epoch 19Training accuracy for epoch 19: 0.940625Training time for this epoch: 25.795051097869873Validation started for epoch 19Validation completed for epoch 19
+Validation accuracy for epoch 19: 0.58375
+Validation time for this epoch: 0.4378201961517334
+Training completed for epoch 20Training accuracy for epoch 20: 0.947Training time for this epoch: 25.874492645263672Validation started for epoch 20Validation completed for epoch 20
+Validation accuracy for epoch 20: 0.59125
+Validation time for this epoch: 0.4673919677734375
+Training completed for epoch 21Training accuracy for epoch 21: 0.971875Training time for this epoch: 26.118019342422485Validation started for epoch 21Validation completed for epoch 21
+Validation accuracy for epoch 21: 0.6025
+Validation time for this epoch: 0.40392541885375977
+Training completed for epoch 22Training accuracy for epoch 22: 0.9795Training time for this epoch: 26.090855360031128Validation started for epoch 22Validation completed for epoch 22
+Validation accuracy for epoch 22: 0.5725
+Validation time for this epoch: 0.40056586265563965
+Training completed for epoch 23Training accuracy for epoch 23: 0.981125Training time for this epoch: 26.578131437301636Validation started for epoch 23Validation completed for epoch 23
+Validation accuracy for epoch 23: 0.58875
+Validation time for this epoch: 0.40160703659057617
+Training completed for epoch 24Training accuracy for epoch 24: 0.97375Training time for this epoch: 26.288888216018677Validation started for epoch 24Validation completed for epoch 24
+Validation accuracy for epoch 24: 0.60875
+Validation time for this epoch: 0.4037587642669678
+Training completed for epoch 25Training accuracy for epoch 25: 0.9705Training time for this epoch: 26.601754188537598Validation started for epoch 25Validation completed for epoch 25
+Validation accuracy for epoch 25: 0.595
+Validation time for this epoch: 0.4035453796386719
+Training completed for epoch 26Training accuracy for epoch 26: 0.98725Training time for this epoch: 26.462857723236084Validation started for epoch 26Validation completed for epoch 26
+Validation accuracy for epoch 26: 0.60375
+Validation time for this epoch: 0.4055624008178711
+Training completed for epoch 27Training accuracy for epoch 27: 0.99925Training time for this epoch: 26.679745197296143Validation started for epoch 27Validation completed for epoch 27
+Validation accuracy for epoch 27: 0.60875
+Validation time for this epoch: 0.40462231636047363
+Training completed for epoch 28Training accuracy for epoch 28: 0.999875Training time for this epoch: 26.401296377182007Validation started for epoch 28Validation completed for epoch 28
+Validation accuracy for epoch 28: 0.61375
+Validation time for this epoch: 0.40731143951416016
+Training completed for epoch 29Training accuracy for epoch 29: 1.0Training time for this epoch: 26.462817668914795Validation started for epoch 29Validation completed for epoch 29
+Validation accuracy for epoch 29: 0.60875
+Validation time for this epoch: 0.4774961471557617
+Training completed for epoch 30Training accuracy for epoch 30: 1.0Training time for this epoch: 26.542500019073486Validation started for epoch 30Validation completed for epoch 30
+Validation accuracy for epoch 30: 0.61
+Validation time for this epoch: 0.4089193344116211
+Training completed for epoch 31Training accuracy for epoch 31: 1.0Training time for this epoch: 26.33248543739319Validation started for epoch 31Validation completed for epoch 31
+Validation accuracy for epoch 31: 0.605
+Validation time for this epoch: 0.4030451774597168
+Training completed for epoch 32Training accuracy for epoch 32: 1.0Training time for this epoch: 26.64245581626892Validation started for epoch 32Validation completed for epoch 32
+Validation accuracy for epoch 32: 0.60375
+Validation time for this epoch: 0.40726542472839355
+Training completed for epoch 33Training accuracy for epoch 33: 1.0Training time for this epoch: 26.298237800598145Validation started for epoch 33Validation completed for epoch 33
+Validation accuracy for epoch 33: 0.59875
+Validation time for this epoch: 0.40677666664123535
+Training completed for epoch 34Training accuracy for epoch 34: 1.0Training time for this epoch: 26.591445684432983Validation started for epoch 34Validation completed for epoch 34
+Validation accuracy for epoch 34: 0.60125
+Validation time for this epoch: 0.41257476806640625
+Training completed for epoch 35Training accuracy for epoch 35: 1.0Training time for this epoch: 26.27359652519226Validation started for epoch 35Validation completed for epoch 35
+Validation accuracy for epoch 35: 0.60125
+Validation time for this epoch: 0.4060509204864502
+Training completed for epoch 36Training accuracy for epoch 36: 1.0Training time for this epoch: 26.54590654373169Validation started for epoch 36Validation completed for epoch 36
+Validation accuracy for epoch 36: 0.60125
+Validation time for this epoch: 0.4171571731567383
+Training completed for epoch 37Training accuracy for epoch 37: 1.0Training time for this epoch: 26.10881233215332Validation started for epoch 37Validation completed for epoch 37
+Validation accuracy for epoch 37: 0.59875
+Validation time for this epoch: 0.40509796142578125
+Training completed for epoch 38Training accuracy for epoch 38: 1.0Training time for this epoch: 26.19290018081665Validation started for epoch 38Validation completed for epoch 38
+Validation accuracy for epoch 38: 0.6025
+Validation time for this epoch: 0.43099188804626465
+Training completed for epoch 39Training accuracy for epoch 39: 1.0Training time for this epoch: 25.86163353919983Validation started for epoch 39Validation completed for epoch 39
+Validation accuracy for epoch 39: 0.6025
+Validation time for this epoch: 0.4058091640472412
+Training completed for epoch 40Training accuracy for epoch 40: 1.0Training time for this epoch: 25.948209524154663Validation started for epoch 40Validation completed for epoch 40
+Validation accuracy for epoch 40: 0.60125
+Validation time for this epoch: 0.4225039482116699
+Training completed for epoch 41Training accuracy for epoch 41: 1.0Training time for this epoch: 26.362664699554443Validation started for epoch 41Validation completed for epoch 41
+Validation accuracy for epoch 41: 0.60125
+Validation time for this epoch: 0.39911675453186035
+Training completed for epoch 42Training accuracy for epoch 42: 1.0Training time for this epoch: 26.32512879371643Validation started for epoch 42Validation completed for epoch 42
+Validation accuracy for epoch 42: 0.60125
+Validation time for this epoch: 0.40769124031066895
+Training completed for epoch 43Training accuracy for epoch 43: 1.0Training time for this epoch: 26.524110317230225Validation started for epoch 43Validation completed for epoch 43
+Validation accuracy for epoch 43: 0.6025
+Validation time for this epoch: 0.4660673141479492
+Training completed for epoch 44Training accuracy for epoch 44: 1.0Training time for this epoch: 26.985599994659424Validation started for epoch 44Validation completed for epoch 44
+Validation accuracy for epoch 44: 0.6
+Validation time for this epoch: 0.41559910774230957
+Training completed for epoch 45Training accuracy for epoch 45: 1.0Training time for this epoch: 26.615018844604492Validation started for epoch 45Validation completed for epoch 45
+Validation accuracy for epoch 45: 0.6
+Validation time for this epoch: 0.40654873847961426
+Training completed for epoch 46Training accuracy for epoch 46: 1.0Training time for this epoch: 26.519687175750732Validation started for epoch 46Validation completed for epoch 46
+Validation accuracy for epoch 46: 0.60125
+Validation time for this epoch: 0.45760083198547363
+Training completed for epoch 47Training accuracy for epoch 47: 1.0Training time for this epoch: 27.65310311317444Validation started for epoch 47Validation completed for epoch 47
+Validation accuracy for epoch 47: 0.59875
+Validation time for this epoch: 0.40055036544799805
+Training completed for epoch 48Training accuracy for epoch 48: 1.0Training time for this epoch: 26.413897275924683Validation started for epoch 48Validation completed for epoch 48
+Validation accuracy for epoch 48: 0.6025
+Validation time for this epoch: 0.40154385566711426
+Training completed for epoch 49Training accuracy for epoch 49: 1.0Training time for this epoch: 26.36165475845337Validation started for epoch 49Validation completed for epoch 49
+Validation accuracy for epoch 49: 0.60125
+Validation time for this epoch: 0.40572404861450195
+Training completed for epoch 50Training accuracy for epoch 50: 1.0Training time for this epoch: 26.621004819869995Validation started for epoch 50Validation completed for epoch 50
+Validation accuracy for epoch 50: 0.60125
+Validation time for this epoch: 0.40134382247924805
+Training completed for epoch 51Training accuracy for epoch 51: 1.0Training time for this epoch: 26.32152509689331Validation started for epoch 51Validation completed for epoch 51
+Validation accuracy for epoch 51: 0.60125
+Validation time for this epoch: 0.4085876941680908
+Training completed for epoch 52Training accuracy for epoch 52: 1.0Training time for this epoch: 26.646941423416138Validation started for epoch 52Validation completed for epoch 52
+Validation accuracy for epoch 52: 0.6
+Validation time for this epoch: 0.4105803966522217
+Training completed for epoch 53Training accuracy for epoch 53: 1.0Training time for this epoch: 26.36716628074646Validation started for epoch 53Validation completed for epoch 53
+Validation accuracy for epoch 53: 0.60125
+Validation time for this epoch: 0.44208788871765137
+Training completed for epoch 54Training accuracy for epoch 54: 1.0Training time for this epoch: 26.651087760925293Validation started for epoch 54Validation completed for epoch 54
+Validation accuracy for epoch 54: 0.59875
+Validation time for this epoch: 0.40155839920043945
+Training completed for epoch 55Training accuracy for epoch 55: 1.0Training time for this epoch: 26.30256676673889Validation started for epoch 55Validation completed for epoch 55
+Validation accuracy for epoch 55: 0.59875
+Validation time for this epoch: 0.40860629081726074
+Training completed for epoch 56Training accuracy for epoch 56: 1.0Training time for this epoch: 26.550585746765137Validation started for epoch 56Validation completed for epoch 56
+Validation accuracy for epoch 56: 0.59875
+Validation time for this epoch: 0.4036564826965332
+Training completed for epoch 57Training accuracy for epoch 57: 1.0Training time for this epoch: 26.29977035522461Validation started for epoch 57Validation completed for epoch 57
+Validation accuracy for epoch 57: 0.6
+Validation time for this epoch: 0.4831719398498535
+Training completed for epoch 58Training accuracy for epoch 58: 1.0Training time for this epoch: 26.908159255981445Validation started for epoch 58Validation completed for epoch 58
+Validation accuracy for epoch 58: 0.60125
+Validation time for this epoch: 0.45958805084228516
+Training completed for epoch 59Training accuracy for epoch 59: 1.0Training time for this epoch: 26.508976936340332Validation started for epoch 59Validation completed for epoch 59
+Validation accuracy for epoch 59: 0.6
+Validation time for this epoch: 0.434246301651001
+Training completed for epoch 60Training accuracy for epoch 60: 1.0Training time for this epoch: 26.439399003982544Validation started for epoch 60Validation completed for epoch 60
+Validation accuracy for epoch 60: 0.60125
+Validation time for this epoch: 0.40329480171203613
+Training completed for epoch 61Training accuracy for epoch 61: 1.0Training time for this epoch: 26.556161880493164Validation started for epoch 61Validation completed for epoch 61
+Validation accuracy for epoch 61: 0.59625
+Validation time for this epoch: 0.4009237289428711
+Training completed for epoch 62Training accuracy for epoch 62: 1.0Training time for this epoch: 26.246891498565674Validation started for epoch 62Validation completed for epoch 62
+Validation accuracy for epoch 62: 0.60125
+Validation time for this epoch: 0.4058356285095215
+Training completed for epoch 63Training accuracy for epoch 63: 1.0Training time for this epoch: 26.61446452140808Validation started for epoch 63Validation completed for epoch 63
+Validation accuracy for epoch 63: 0.60125
+Validation time for this epoch: 0.40469956398010254
+Training completed for epoch 64Training accuracy for epoch 64: 1.0Training time for this epoch: 26.35736656188965Validation started for epoch 64Validation completed for epoch 64
+Validation accuracy for epoch 64: 0.6
+Validation time for this epoch: 0.404050350189209
+Training completed for epoch 65Training accuracy for epoch 65: 1.0Training time for this epoch: 26.59231400489807Validation started for epoch 65Validation completed for epoch 65
+Validation accuracy for epoch 65: 0.60125
+Validation time for this epoch: 0.40506410598754883
+Training completed for epoch 66Training accuracy for epoch 66: 1.0Training time for this epoch: 26.38028120994568Validation started for epoch 66Validation completed for epoch 66
+Validation accuracy for epoch 66: 0.59875
+Validation time for this epoch: 0.40454721450805664
+Training completed for epoch 67Training accuracy for epoch 67: 1.0Training time for this epoch: 26.702216386795044Validation started for epoch 67Validation completed for epoch 67
+Validation accuracy for epoch 67: 0.59875
+Validation time for this epoch: 0.4310791492462158
+Training completed for epoch 68Training accuracy for epoch 68: 1.0Training time for this epoch: 26.374231100082397Validation started for epoch 68Validation completed for epoch 68
+Validation accuracy for epoch 68: 0.59875
+Validation time for this epoch: 0.4035453796386719
+Training completed for epoch 69Training accuracy for epoch 69: 1.0Training time for this epoch: 26.229531049728394Validation started for epoch 69Validation completed for epoch 69
+Validation accuracy for epoch 69: 0.6
+Validation time for this epoch: 0.40155553817749023
+Training completed for epoch 70Training accuracy for epoch 70: 1.0Training time for this epoch: 26.596932649612427Validation started for epoch 70Validation completed for epoch 70
+Validation accuracy for epoch 70: 0.6
+Validation time for this epoch: 0.4050476551055908
+Training completed for epoch 71Training accuracy for epoch 71: 1.0Training time for this epoch: 26.34288787841797Validation started for epoch 71Validation completed for epoch 71
+Validation accuracy for epoch 71: 0.59625
+Validation time for this epoch: 0.4051826000213623
+Training completed for epoch 72Training accuracy for epoch 72: 1.0Training time for this epoch: 26.458070278167725Validation started for epoch 72Validation completed for epoch 72
+Validation accuracy for epoch 72: 0.5975
+Validation time for this epoch: 0.4027128219604492
+Training completed for epoch 73Training accuracy for epoch 73: 1.0Training time for this epoch: 25.87403964996338Validation started for epoch 73Validation completed for epoch 73
+Validation accuracy for epoch 73: 0.5975
+Validation time for this epoch: 0.40870094299316406
+Training completed for epoch 74Training accuracy for epoch 74: 1.0Training time for this epoch: 26.2326877117157Validation started for epoch 74Validation completed for epoch 74
+Validation accuracy for epoch 74: 0.59875
+Validation time for this epoch: 0.41304683685302734
+Training completed for epoch 75Training accuracy for epoch 75: 1.0Training time for this epoch: 26.28497314453125Validation started for epoch 75Validation completed for epoch 75
+Validation accuracy for epoch 75: 0.59875
+Validation time for this epoch: 0.39804983139038086
+Training completed for epoch 76Training accuracy for epoch 76: 1.0Training time for this epoch: 26.52325701713562Validation started for epoch 76Validation completed for epoch 76
+Validation accuracy for epoch 76: 0.5975
+Validation time for this epoch: 0.40055394172668457
+Training completed for epoch 77Training accuracy for epoch 77: 1.0Training time for this epoch: 26.370165824890137Validation started for epoch 77Validation completed for epoch 77
+Validation accuracy for epoch 77: 0.59875
+Validation time for this epoch: 0.407029390335083
+Training completed for epoch 78Training accuracy for epoch 78: 1.0Training time for this epoch: 26.296546936035156Validation started for epoch 78Validation completed for epoch 78
+Validation accuracy for epoch 78: 0.59625
+Validation time for this epoch: 0.4060242176055908
+Training completed for epoch 79Training accuracy for epoch 79: 1.0Training time for this epoch: 26.602843761444092Validation started for epoch 79Validation completed for epoch 79
+Validation accuracy for epoch 79: 0.59625
+Validation time for this epoch: 0.40298032760620117
+Training completed for epoch 80Training accuracy for epoch 80: 1.0Training time for this epoch: 26.33593440055847Validation started for epoch 80Validation completed for epoch 80
+Validation accuracy for epoch 80: 0.59625
+Validation time for this epoch: 0.4146134853363037
+Training completed for epoch 81Training accuracy for epoch 81: 1.0Training time for this epoch: 26.510897159576416Validation started for epoch 81Validation completed for epoch 81
+Validation accuracy for epoch 81: 0.59625
+Validation time for this epoch: 0.39925146102905273
+Training completed for epoch 82Training accuracy for epoch 82: 1.0Training time for this epoch: 26.35896062850952Validation started for epoch 82Validation completed for epoch 82
+Validation accuracy for epoch 82: 0.59625
+Validation time for this epoch: 0.4085521697998047
+Training completed for epoch 83Training accuracy for epoch 83: 1.0Training time for this epoch: 26.581098556518555Validation started for epoch 83Validation completed for epoch 83
+Validation accuracy for epoch 83: 0.59625
+Validation time for this epoch: 0.40705037117004395
+Training completed for epoch 84Training accuracy for epoch 84: 1.0Training time for this epoch: 26.335582733154297Validation started for epoch 84Validation completed for epoch 84
+Validation accuracy for epoch 84: 0.59625
+Validation time for this epoch: 0.40277981758117676
+Training completed for epoch 85Training accuracy for epoch 85: 1.0Training time for this epoch: 26.56281566619873Validation started for epoch 85Validation completed for epoch 85
+Validation accuracy for epoch 85: 0.5975
+Validation time for this epoch: 0.40594482421875
+Training completed for epoch 86Training accuracy for epoch 86: 1.0Training time for this epoch: 26.40633463859558Validation started for epoch 86Validation completed for epoch 86
+Validation accuracy for epoch 86: 0.59625
+Validation time for this epoch: 0.41016101837158203
+Training completed for epoch 87Training accuracy for epoch 87: 1.0Training time for this epoch: 26.25587272644043Validation started for epoch 87Validation completed for epoch 87
+Validation accuracy for epoch 87: 0.59625
+Validation time for this epoch: 0.4045393466949463
+Training completed for epoch 88Training accuracy for epoch 88: 1.0Training time for this epoch: 26.49466061592102Validation started for epoch 88Validation completed for epoch 88
+Validation accuracy for epoch 88: 0.59625
+Validation time for this epoch: 0.40714573860168457
+Training completed for epoch 89Training accuracy for epoch 89: 1.0Training time for this epoch: 26.565678596496582Validation started for epoch 89Validation completed for epoch 89
+Validation accuracy for epoch 89: 0.5975
+Validation time for this epoch: 0.4054269790649414
+Training completed for epoch 90Training accuracy for epoch 90: 1.0Training time for this epoch: 26.65161943435669Validation started for epoch 90Validation completed for epoch 90
+Validation accuracy for epoch 90: 0.59625
+Validation time for this epoch: 0.4030430316925049
+Training completed for epoch 91Training accuracy for epoch 91: 1.0Training time for this epoch: 26.339640855789185Validation started for epoch 91Validation completed for epoch 91
+Validation accuracy for epoch 91: 0.59625
+Validation time for this epoch: 0.41985130310058594
+Training completed for epoch 92Training accuracy for epoch 92: 1.0Training time for this epoch: 26.661134719848633Validation started for epoch 92Validation completed for epoch 92
+Validation accuracy for epoch 92: 0.59625
+Validation time for this epoch: 0.4080333709716797
+Training completed for epoch 93Training accuracy for epoch 93: 1.0Training time for this epoch: 26.267980337142944Validation started for epoch 93Validation completed for epoch 93
+Validation accuracy for epoch 93: 0.59625
+Validation time for this epoch: 0.40600061416625977
+Training completed for epoch 94Training accuracy for epoch 94: 1.0Training time for this epoch: 26.778684616088867Validation started for epoch 94Validation completed for epoch 94
+Validation accuracy for epoch 94: 0.59625
+Validation time for this epoch: 0.4062027931213379
+Training completed for epoch 95Training accuracy for epoch 95: 1.0Training time for this epoch: 26.34015965461731Validation started for epoch 95Validation completed for epoch 95
+Validation accuracy for epoch 95: 0.59625
+Validation time for this epoch: 0.407193660736084
+Training completed for epoch 96Training accuracy for epoch 96: 1.0Training time for this epoch: 26.462701320648193Validation started for epoch 96Validation completed for epoch 96
+Validation accuracy for epoch 96: 0.595
+Validation time for this epoch: 0.4458022117614746
+Training completed for epoch 97Training accuracy for epoch 97: 1.0Training time for this epoch: 26.563922882080078Validation started for epoch 97Validation completed for epoch 97
+Validation accuracy for epoch 97: 0.59625
+Validation time for this epoch: 0.4065558910369873
+Training completed for epoch 98Training accuracy for epoch 98: 1.0Training time for this epoch: 26.411519050598145Validation started for epoch 98Validation completed for epoch 98
+Validation accuracy for epoch 98: 0.5975
+Validation time for this epoch: 0.4073750972747803
+Training completed for epoch 99Training accuracy for epoch 99: 1.0Training time for this epoch: 26.646291255950928Validation started for epoch 99Validation completed for epoch 99
+Validation accuracy for epoch 99: 0.59625
+Validation time for this epoch: 0.40455126762390137
+Training completed for epoch 100Training accuracy for epoch 100: 1.0Training time for this epoch: 26.403046131134033Validation started for epoch 100Validation completed for epoch 100
+Validation accuracy for epoch 100: 0.5975
+Validation time for this epoch: 0.4029526710510254
+End of program
