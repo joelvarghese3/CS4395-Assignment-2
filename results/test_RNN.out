@@ -1,0 +1,108 @@
+Start of testing: Namespace(hidden_dim=10, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training started for epoch 1
+2.9688494205474854
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.338875
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.4975
+Training started for epoch 2
+1.655549168586731
+Training completed for epoch 2
+Training accuracy for epoch 2: 0.378
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.38
+Training done to avoid overfitting!
+Best validation accuracy is: 0.4975
+Start of testing: Namespace(hidden_dim=32, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training started for epoch 1
+2.787355661392212
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.3328125
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.49625
+Training started for epoch 2
+Start of testing: Namespace(hidden_dim=10, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training started for epoch 1
+Start of testing: Namespace(hidden_dim=10, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training started for epoch 1
+2.5762288570404053
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.325625
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.375
+Training started for epoch 2
+1.8514676094055176
+Training completed for epoch 2
+Training accuracy for epoch 2: 0.3674375
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.30125
+Training done to avoid overfitting!
+Best validation accuracy is: 0.375
+
+Start of testing: Namespace(hidden_dim=32, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training started for epoch 1
+2.39748215675354
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.3376875
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.12875
+Training started for epoch 2
+1.59592866897583
+Training completed for epoch 2
+Training accuracy for epoch 2: 0.3703125
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.2975
+Training started for epoch 3
+2.1248621940612793
+Training completed for epoch 3
+Training accuracy for epoch 3: 0.2903125
+Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.2175
+Training started for epoch 4
+1.6610877513885498
+Training completed for epoch 4
+Training accuracy for epoch 4: 0.329125
+Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.27875
+Training started for epoch 5
+1.6009949445724487
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.36
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.44875
+Training started for epoch 6
+1.5689761638641357
+Training completed for epoch 6
+Training accuracy for epoch 6: 0.3855
+Validation completed for epoch 6
+Validation accuracy for epoch 6: 0.39
+Training done to avoid overfitting!
+Best validation accuracy is: 0.44875
+
+Start of testing: Namespace(hidden_dim=128, epochs=100, train_data='training.json', val_data='validation.json', test_data='to fill', do_train=False)Training started for epoch 1
+2.280717134475708
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.27175
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.32
+Training started for epoch 2
+1.7609937191009521
+Training completed for epoch 2
+Training accuracy for epoch 2: 0.269125
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.13375
+Training started for epoch 3
+1.8048268556594849
+Training completed for epoch 3
+Training accuracy for epoch 3: 0.2713125
+Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.31125
+Training started for epoch 4
+1.8259371519088745
+Training completed for epoch 4
+Training accuracy for epoch 4: 0.271
+Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.34375
+Training started for epoch 5
+1.7969670295715332
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2733125
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.19
+Training done to avoid overfitting!
+Best validation accuracy is: 0.34375
